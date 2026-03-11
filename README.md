@@ -15,7 +15,3 @@ Atualmente, a app permite:
 - visualizar o historico de experiencias associado a cada guia.
 
 Algumas funcionalidades encontram-se ainda em desenvolvimento, mas a base principal da aplicacao ja demonstra o fluxo completo entre carregamento de dados, autenticacao, navegacao por perfis e execucao de operacoes especificas por tipo de utilizador.
-
-## About
-
-Console app in Java that simulates the management of the CESAE Resort, using the MVC pattern and CSV files as a data source. It includes role-based access for admin, management and guides, plus public client access for consulting resort information.
