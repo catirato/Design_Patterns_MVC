@@ -7,6 +7,8 @@ developed as part of the <strong>Algorithms and Programming</strong> module at C
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-25-orange?logo=java&logoColor=white" />
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Architecture-MVC-blue" />
   <img src="https://img.shields.io/badge/Data-CSV-green" />
   <img src="https://img.shields.io/badge/Status-In%20Development-yellow" />
